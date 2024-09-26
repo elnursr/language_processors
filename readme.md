@@ -10,12 +10,12 @@
    * Example: JavaScript, Python
 ---
 3. Assemblers
-   * Funksiyasi: Assembly dili code-nu machine code-nna chevirir.
+   * Funksiyasi: Assembly dili code-nu machine code-na chevirir.
    * Example: NASM (Netwide Assembler)
 ---
 4. Hybrid
    * Funksiyasi: Bu dil prosessoru programlarin run edilmesini optimizasiya etmek uchun *compiler* ve *interpreters* dilin xususiyyetleirni ozunde birleshdirir.
    * Example: 
-   * Java => Java Virtual Machine (JVM) 
-   * C# => Common Language Runtime (CLR)
-   * Python => PyPy Just-In-Time (JIT)
+     * Java => Java Virtual Machine (JVM) 
+     * C# => Common Language Runtime (CLR)
+     * Python => PyPy Just-In-Time (JIT)
